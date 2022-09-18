@@ -1,0 +1,9 @@
+{
+	"name": "ProdDataFactoryDeployment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eaaf99b0-daa9-46a6-b9fc-61eb7fee76b2",
+		"tenantId": "594bdb6d-5a49-41f2-aeb7-df3a8ddf532a"
+	}
+}
